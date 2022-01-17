@@ -1,0 +1,4 @@
+- import_playbook: marasigan/ospf.yaml
+- import_playbook: marasigan/acl.yaml
+- import_playbook: marasigan/iproute.yaml
+- import_playbook: marasigan/Backups.yaml
